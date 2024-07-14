@@ -4,8 +4,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class OpenchatApplication
+class OpenChatApplication
 
 fun main(args: Array<String>) {
-    runApplication<OpenchatApplication>(*args)
+    runApplication<OpenChatApplication>(*args)
 }
